@@ -41,6 +41,3 @@ npm run dev
 
 ## 📊 Dataset
 PlantVillage Dataset — 87,000 images, 38 classes
-
-## 👥 Team
-6th Semester — Soft Computing Project
